@@ -1,0 +1,20 @@
+[
+  {
+    "url":"wss://api.aleksw.space/ws",
+    "name":"alexw"
+  }
+  ,{
+    "url":"wss://golos.lexai.host/ws",
+    "name":"lex"
+  }
+  ,{
+    "url":"wss://api-golos.blckchnd.com/ws",
+    "name":"blockchained"
+  }
+  ,{
+    "url":"wss://golos.viz.media/ws",
+    "name":"solox"
+  }
+]
+    
+  
