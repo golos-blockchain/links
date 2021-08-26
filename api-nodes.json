@@ -17,19 +17,19 @@
   }  
   ,{
     "url":"wss://api-golos.blckchnd.com/ws",
-    "name":"blockchained (ws)
+    "name":"blockchained (ws)"
   }
   ,{
     "url":"https://api-golos.blckchnd.com",
-    "name":"blockchained (https)
+    "name":"blockchained (https)"
   }  
   ,{
     "url":"wss://golos.viz.media/ws",
-    "name":"solox (ws)
+    "name":"solox (ws)"
   }
   ,{
     "url":"https://golos.viz.media",
-    "name":"solox (https)
+    "name":"solox (https)"
   }  
 ]
 
