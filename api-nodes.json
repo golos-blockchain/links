@@ -1,35 +1,43 @@
 [
   {
     "url":"wss://api.aleksw.space/ws",
-    "name":"alexw (ws)"
+    "name":"alexw (wss)",
+    "scheme":"wss"
   }
   ,{
     "url":"https://api.aleksw.space",
-    "name":"alexw (https)"
+    "name":"alexw (https)",
+    "scheme":"https"
   }  
   ,{
     "url":"wss://golos.lexai.host/ws",
-    "name":"lex (ws)"
+    "name":"lex (wss)",
+    "scheme":"wss"
   }
   ,{
     "url":"https://golos.lexai.host",
-    "name":"lex (https)"
+    "name":"lex (https)",
+    "scheme":"https"
   }  
   ,{
     "url":"wss://api-golos.blckchnd.com/ws",
-    "name":"blockchained (ws)"
+    "name":"blockchained (wss)",
+    "scheme":"wss"
   }
   ,{
     "url":"https://api-golos.blckchnd.com",
-    "name":"blockchained (https)"
+    "name":"blockchained (https)",
+    "scheme":"https"
   }  
   ,{
     "url":"wss://golos.viz.media/ws",
-    "name":"solox (ws)"
+    "name":"solox (wss)",
+    "scheme":"wss"
   }
   ,{
     "url":"https://golos.viz.media",
-    "name":"solox (https)"
+    "name":"solox (https)",
+    "scheme":"https"
   }  
 ]
 
